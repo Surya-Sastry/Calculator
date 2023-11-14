@@ -1,0 +1,5 @@
+2023-11-07 16:50:32.764 [main] INFO  org.example.Main - Start of Execution
+2023-11-07 16:50:37.772 [main] INFO  org.example.Main - Start OP: Addition
+2023-11-07 16:50:37.772 [main] INFO  org.example.Main - End OP: Addition
+2023-11-07 16:50:37.772 [main] WARN  org.example.Main - Invalid Input
+2023-11-07 16:50:44.276 [main] INFO  org.example.Main - End of Execution
