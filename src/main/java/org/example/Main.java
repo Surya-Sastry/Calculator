@@ -34,7 +34,7 @@ public class Main {
         logger.info("Start of Execution");
         while(true)
         {
-        System.out.println("Choose your operations: ");
+        System.out.println("Choose your operations: Do it");
         System.out.println("1. Addition");
         System.out.println("2. Subtraction");
         System.out.println("3. Multiplication");
